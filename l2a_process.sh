@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 # inner container sen2cor cfg settings folder
-SEN2COR_HOME="/root/sen2cor/2.10"
-SEN2COR_PROCBIN="/tmp/sen2cor/Sen2Cor-02.10.01-Linux64/bin"
+SEN2COR_HOME="/root/sen2cor/2.9"
+SEN2COR_PROCBIN="/tmp/sen2cor/Sen2Cor-02.09.00-Linux64/bin"
 # output folder that will be mounted on the shared drive/S3 bucket
 OUTPUT="/tmp/output"
 

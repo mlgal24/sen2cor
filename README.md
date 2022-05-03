@@ -3,5 +3,5 @@
 ```
 Usage: 
 
-docker run --rm -ti -v ~/input_folder:/data -v ~/output_folder:/tmp/output ghcr.io/mlgal24/sen2cor:main /data/S2A_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.SAFE
+docker run --rm -ti -v ~/input_folder:/data -v ~/output_folder:/tmp/output ghcr.io/mlgal24/sen2cor:2.9.0 /data/S2A_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.SAFE
 ```
